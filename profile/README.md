@@ -21,6 +21,7 @@ Whether it's teaching German, generating social captions, writing blog posts, or
 
 | Project | Description | Users |
 |--------|-------------|-------|
+| 🧑‍💻 [Product Builders](https://productbuilders.xyz/) | A growing community of builders using AI to prototype, ship, and scale digital products — includes tools, docs, and case studies. | `New 🚀` |
 | 🌍 [German with Nik](https://germanwithnik.com/) | Learn German with Nik, an AI tutor that helps users practice vocabulary, grammar, and conversational German. | `100+` |
 | 📝 [Captions GPT](https://captionsgpt.site/) | Auto-generate engaging captions for Instagram, LinkedIn, and more — tailored to your audience. | `100+` |
 | 📄 [PDF Bot](https://chat.openai.com/g/g-vf2SBarTd-pdf-gpt) | Chat with your PDFs. Ask questions, extract key insights, summarize — all inside ChatGPT. | `20+` |
