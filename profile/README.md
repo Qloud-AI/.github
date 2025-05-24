@@ -22,13 +22,13 @@ Whether it's teaching German, generating social captions, writing blog posts, or
 | Project | Description | Users |
 |--------|-------------|-------|
 | 🧑‍💻 [Product Builders](https://productbuilders.xyz/) | A growing community of builders using AI to prototype, ship, and scale digital products — includes tools, docs, and case studies. | `New 🚀` |
-| 🌍 [German with Nik](https://germanwithnik.com/) | Learn German with Nik, an AI tutor that helps users practice vocabulary, grammar, and conversational German. | `100+` |
-| 📝 [Captions GPT](https://captionsgpt.site/) | Auto-generate engaging captions for Instagram, LinkedIn, and more — tailored to your audience. | `100+` |
-| 📄 [PDF Bot](https://chat.openai.com/g/g-vf2SBarTd-pdf-gpt) | Chat with your PDFs. Ask questions, extract key insights, summarize — all inside ChatGPT. | `20+` |
+| 🌍 [German with Nik](https://germanwithnik.com/) | Learn German with Nik, an AI tutor that helps users practice vocabulary, grammar, and conversational German. | `200+` |
+| 📝 [Captions GPT](https://captionsgpt.site/) | Auto-generate engaging captions for Instagram, LinkedIn, and more — tailored to your audience. | `200+` |
+| 📄 [PDF Bot](https://chat.openai.com/g/g-vf2SBarTd-pdf-gpt) | Chat with your PDFs. Ask questions, extract key insights, summarize — all inside ChatGPT. | `30+` |
 | 📊 [Data Visualization GPT](https://chat.openai.com/g/g-wRVc49G82-visualize-your-data) | Turn raw CSV or JSON into stunning charts using natural language. | `200+` |
-| 🐍 [FastAPI Python Bot](https://chat.openai.com/g/g-cbMzm6oC4-python-fast-api-expert) | Your AI expert for building FastAPI backends — get help with code, architecture, and deployment. | `80+` |
-| 🧠 [Medium Tech Blogger](https://chat.openai.com/g/g-2Z9JO1ap2-medium-tech-blogger) | Generate tech-focused Medium articles from prompts or outlines. | `10+` |
-| ₿ [Crypto Advisor](https://chat.openai.com/g/g-VPHBPzzLd-crypto-advisor) | Get simple, AI-powered advice on crypto trends, tokenomics, and trading insights. | `10+` |
+| 🐍 [FastAPI Python Bot](https://chat.openai.com/g/g-cbMzm6oC4-python-fast-api-expert) | Your AI expert for building FastAPI backends — get help with code, architecture, and deployment. | `200+` |
+
+> ⚙️ *More projects .. Check the repository*
 
 ---
 
