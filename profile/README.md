@@ -35,7 +35,7 @@ Whether it's teaching German, generating social captions, writing blog posts, or
 ## 💬 Connect
 
 Have feedback, ideas, or want to collaborate?  
-Find me on [X](https://x.com/angshumangupta) / [LinkedIn](https://www.linkedin.com/in/angshumangupta/) or reach out at [Qloud AI](https://qloudai.app/).
+Find me on [X](https://x.com/angshuman_gupta) / [LinkedIn](https://www.linkedin.com/in/angshumangupta/) or reach out at [Qloud AI](https://qloudai.app/).
 
 ---
 
